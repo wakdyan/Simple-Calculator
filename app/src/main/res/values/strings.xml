@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="value_hint">Masukkan Nilai</string>
+    <string name="addition_symbol">+</string>
+    <string name="subtraction_symbol">-</string>
+    <string name="multiplication_symbol">*</string>
+    <string name="division_symbol">/</string>
+    <string name="result">Result</string>
+    <string name="error_result">Please add minimum 2 value</string>
+</resources>
